@@ -1,4 +1,6 @@
-
+<head>
+  <meta name="google-site-verification" content="EGyG-qILVr4QBfah4EoZQmM1AaqRuHpS3OTNPa9dKAU" />
+</head>
 
 
 <img align="center" alt="Coding" width="1000" height="450" src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif">

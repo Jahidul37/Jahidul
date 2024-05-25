@@ -1,4 +1,4 @@
-[![MasterHead]https://i.gifer.com/IuNL.gif
+[![MasterHead](https://i.gifer.com/IuNL.gif)]
 
 <h1 align="center">Hi 👋, I'm Jahidul Islam</h1>
 <h3 align="center">I'm a MERN STACK Web Developer.</h3>

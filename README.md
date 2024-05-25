@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahidul Islam</h1>
 <h3 align="center">I'm a MERN STACK Web Developer.</h3>
-<img align="right" alt="coding" src="https://i.gifer.com/En1y.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🌱 I’m currently learning ****Next.js****

@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nazmus-sakib.me/)
+[![MasterHead]()
 <h1 align="center">Hi 👋, I'm Jahidul Islam.</h1>
 <h3 align="center">I'm a MERN STACK Web Developer.</h3>
 <img align="right" width="400" alt="coding" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk">

@@ -5,8 +5,7 @@
 <h1 align="center">Hi 👋, I'm Jahidul Islam</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh.</h3>
 
-<img align="right" src="https://github.com/Jahidul37/Jahidul37/assets/112299256/2c7f7422-c9b4-43a2-b617-1d95c072a35e
-">
+<img align="right" src="https://github.com/Jahidul37/Jahidul37/assets/112299256/2c7f7422-c9b4-43a2-b617-1d95c072a35e">
 
 
 

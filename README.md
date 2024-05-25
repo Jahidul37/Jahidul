@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<a href="https://ibb.co/2FTPHy1"><img width="100%" src="https://i.ibb.co/2FTPHy1/github-header-image.png" alt="github-header-image" border="0"></a>
+<a href="https://ibb.co/2FTPHy1"><img width="100%" src="[https://i.ibb.co/2FTPHy1/github-header-image.png" alt="github-header-image](https://ibb.co/2FTPHy1)" border="0"></a>
 <h1 align="center">Hi 👋, I'm Jahidul Islam</h1>
 <h3 align="center">I'm a MERN STACK Web Developer.</h3>
 <img align="right" width="400" alt="coding" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk">

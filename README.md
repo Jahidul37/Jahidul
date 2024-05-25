@@ -1,7 +1,7 @@
 
 
 
-<img align="center" alt="Coding" width="1000" height="400" src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif">
+<img align="center" alt="Coding" width="1000" height="450" src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif">
 
 
 <h1 align="center">Hi 👋, I'm Jahidul Islam.</h1>

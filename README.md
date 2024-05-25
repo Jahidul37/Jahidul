@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahidul Islam</h1>
 <h3 align="center">I'm a MERN STACK Web Developer.</h3>
-
+<img align="right" alt="coding" src="https://i.gifer.com/En1y.gif">
 
 
 - 🌱 I’m currently learning ****Next.js****
@@ -10,7 +10,7 @@
 - 💬 Ask me about ****react,node,javaScript****
 
 - 📫 How to reach me ****jahidul.islam6610@gmail.com****
-<img align="right" src="https://i.gifer.com/En1y.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jahidul-islam-b1aa98224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jahidul-islam-b1aa98224/" height="30" width="40" /></a>

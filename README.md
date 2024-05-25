@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahidul Islam.</h1>
 <h3 align="center">I'm a MERN STACK Web Developer.</h3>
-
+<img align="right" width="400" alt="coding" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidul37&label=Profile%20views&color=0e75b6&style=flat" alt="jahidul37" /> </p>
 
 - 🌱 I’m currently learning **Next.js**

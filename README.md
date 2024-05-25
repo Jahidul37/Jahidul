@@ -1,4 +1,4 @@
-(https://i.gifer.com/IuNL.gif)
+<img src="https://i.gifer.com/IuNL.gif">
 
 ### Hi there 👋, I'm Jahidul Islam.
 #### I am a Web Developer.

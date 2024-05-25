@@ -1,4 +1,4 @@
-[![MasterHead]![image](https://github.com/Jahidul37/Jahidul37/assets/112299256/f9aaa739-94b7-4c69-a32f-e4feca06b03f)
+[![MasterHead](https://github.com/Jahidul37/Jahidul37/assets/112299256/f9aaa739-94b7-4c69-a32f-e4feca06b03f)
 
 <h1 align="center">Hi 👋, I'm Jahidul Islam.</h1>
 <h3 align="center">I'm a MERN STACK Web Developer.</h3>

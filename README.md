@@ -1,9 +1,8 @@
 (https://i.gifer.com/IuNL.gif)
-![I am a Web Developer.]
+
 ### Hi there 👋, I'm Jahidul Islam.
 #### I am a Web Developer.
-
-
+![I am a Web Developer.]
 
 Skills: REACT / JS / HTML / CSS / node / mongodb
 
@@ -19,5 +18,7 @@ Skills: REACT / JS / HTML / CSS / node / mongodb
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Jahidul37)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Jahidul37&show_icons=true)  
+
+
 
 

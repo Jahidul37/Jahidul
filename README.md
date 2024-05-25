@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidul37&label=Profile%20views&color=0e75b6&style=flat" alt="jahidul37" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahidul37" alt="jahidul37" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Github**
@@ -27,8 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahidul37&show_icons=true&locale=en" alt="jahidul37" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahidul37&" alt="jahidul37" /></p>
-
-
-
-
-

@@ -1,5 +1,5 @@
 <head>
-  <meta name="google-site-verification" content="EGyG-qILVr4QBfah4EoZQmM1AaqRuHpS3OTNPa9dKAU"  />
+ <meta name="google-site-verification" content="EGyG-qILVr4QBfah4EoZQmM1AaqRuHpS3OTNPa9dKAU" />
 </head>
 
 <h1 align="center">Hi 👋, I'm Jahidul Islam</h1>
